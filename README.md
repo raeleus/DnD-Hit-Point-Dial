@@ -14,3 +14,5 @@ Sandpaper
 
 -3D Printer-
 This model has been successfully printed on Makerbot and Bambu Lab printers.
+
+ DnD Hit Point Dial © 2025 by Raymond Buckley is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/
